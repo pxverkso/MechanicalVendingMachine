@@ -1,6 +1,12 @@
 # Mechanical Vending Machine
 <img width="709" height="945" alt="0" src="https://github.com/user-attachments/assets/8c255843-a587-4a43-999a-b4087c871c4b" />
 
+## Why I made This
+I made this Vending Machine for outreach events for my club. We are planning on giving away clicker fidgets and I thought it would be a nice interactive addition for people coming by our booth. 
+
+## How does it work? 
+It's hard to describe just how it works with words but basically the button is connected to a lever system that pushes a coin in the sorting chamber to push another lever, which is connected to the dispensing mechanism. If no coin is there, nothing happens, the lever in the sorting chamber pushes nothing so it can't activate the dispensing lever. 
+
 # READ BELOW FOR ASSEMBLY
 
 ### No Motors and No Programming, the Mechanical Vending Machine Dispenses, Sorts, and Reloads Items with just a press of a single orange button. 
